@@ -1,0 +1,11 @@
+ID,Nam,Age,Email,Join Date,Salary
+1.0,Juan,25,juan@mail.com,2021-06-15,3000
+2.0,Maria,veintiséis,maria@mail.com,2022-07-20,2500
+3.0,,30,,06-08-2021,4000
+4.0,Pedro,,pedro@mail,2020/05/30,5000
+5.0,Ana,22,ana@mail.com,,
+5.0,Ana,22,ana@mail.com,2022-07-20,2500
+,Carlos,40,carlos@mail.com,2019-12-01,Four thousand
+7.0,M4nuel,35,manuel@mail.com,01-01-2021,3.5K
+8.0,Luis,treinta,luis@mail,2023-03-25,6000
+9.0,123,29,luis@mail,2023-03-25,NaN
